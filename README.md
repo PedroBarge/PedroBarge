@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything new
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [...](https://www.linkedin.com/in/pedro-daniel-barge-tavares-44ba1a1b1/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pedro-daniel-barge-tavares-44ba1a1b1/)
 - ⚡ Fun fact: ...
 
 <!---
