@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Barge
 
-**QA Automation Engineer** based in Porto, Portugal 🇵🇹
+**QA Automation Engineer** based in Portugal 🇵🇹
 
 ---
 
